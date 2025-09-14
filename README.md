@@ -1,4 +1,4 @@
-# Prophage Identification Analysis with VirSorter2 🦠
+# Prophage Identification Analysis with VirSorter2 🦠 and Syntenic block analysis 
 
 [![Bash Script](https://img.shields.io/badge/bash-script-blue?logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![VirSorter2](https://img.shields.io/badge/VirSorter2-ready-success)](https://github.com/jiarong/VirSorter2)
@@ -33,8 +33,22 @@ Run the main script as follows:
 
 ./start.sh run_virsorter <data_path> <output_path>
 
-### Example 
-./start.sh run_virsorter ./data ./output
+###Example 
+./start.sh run_virsorter data/ results/
+
+## ✔️ Check
+Run checks (after first Virsorter analysis). The checkv for quality control and DRAMv to annotated the identified sequences
+./start.sh run_check <data_path> <output_path> 
+
+###Example 
+./start.sh run_check data/ results/
+
+## Syntenic block analysis
+
+./start.sh syntenic <data_path> <output_path> 
+
+###Example 
+./start.sh syntenic data/ results/
 
 ### Note
 Ensure that genome_name lists all genome filenames to be analyzed.
