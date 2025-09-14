@@ -1,0 +1,32 @@
+Job counts:
+	count	jobs
+	1	all
+	1	check_point_for_reclassify
+	1	circular_linear_split
+	1	classify
+	2	classify_by_group
+	2	classify_full_and_part_by_group
+	1	combine_linear_circular
+	2	combine_linear_circular_by_group
+	1	extract_feature
+	1	extract_provirus_seqs
+	1	finalize
+	1	gff_feature
+	2	gff_feature_by_group
+	2	hmm_features_by_group
+	1	hmm_sort_to_best_hit_taxon
+	2	hmm_sort_to_best_hit_taxon_by_group
+	1	merge_classification
+	1	merge_full_and_part_classification
+	2	merge_hmm_gff_features_by_group
+	2	merge_provirus_call_by_group_by_split
+	1	merge_provirus_call_from_groups
+	5	merge_split_hmmtbl
+	10	merge_split_hmmtbl_by_group
+	10	merge_split_hmmtbl_by_group_tmp
+	1	pick_viral_fullseq
+	1	preprocess
+	1	split_faa
+	2	split_faa_by_group
+	2	split_gff_by_group
+	61

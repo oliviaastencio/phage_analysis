@@ -1,0 +1,2 @@
+seqname	contig_size	gene_size	gene_overlap_perc	density	strand_switch_perc	atg_perc	gtg_perc	ttg_perc	gc_mean	gc_sd	rbs_DoubleA	rbs_DoubleT	rbs_NoA	rbs_None	rbs_OnlyA	rbs_OnlyT	rbs_Other	rbs_Other_GA	rbs_SD_Bacteroidetes	rbs_SD_Canonical	rbs_TATATA_3-6
+NC_009997.1||rbs:common	5346836	980.9177545691906	4.483133841131665	0.8595737740974289	30.837867247007615	88.83812010443864	7.354221061792863	3.8076588337684942	46.72822019147085	4.091265448250924	0.0	0.0	0.0	12.11923411662315	0.0	0.0	58.20278503046127	0.0	0.0	29.677980852915578	0.0
