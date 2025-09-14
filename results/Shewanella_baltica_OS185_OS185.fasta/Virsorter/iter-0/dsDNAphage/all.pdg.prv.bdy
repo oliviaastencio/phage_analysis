@@ -1,3 +1,0 @@
-seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt
-NC_009665.1||rbs:common	744	817	872722	942136	0.900	0.947	744	817	872722	942136	0.900	1.000	1	1	4455	382	5229621	0.347	0.0	38.4	0.0	29.1	10.5	22.1	5
-NC_009665.1||rbs:common	2106	2178	2480415	2554035	0.900	0.920	2106	2178	2480415	2554035	0.900	1.000	1	1	4455	382	5229621	0.347	0.0	29.4	0.0	25.9	20.0	24.7	5
