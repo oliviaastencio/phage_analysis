@@ -85,5 +85,4 @@ Output will be organized in <output_path> with separate folders for each genome 
 ### 🔗 Reference 
 VirSorter2 GitHub (https://github.com/jiarong/VirSorter2) Official repository and documentation.
 Roux et al., 2021. VirSorter2: a multi-classifier, expert-guided approach to detect diverse DNA and RNA viruses.
-./start.sh run_virsorter <data_path> <output_path>
 
