@@ -35,7 +35,7 @@ This repository provides **bash scripts** for prophage identification in bacteri
 
 ## ⚡ Usage
 
-1️⃣ Run VirSorter2 (first pass)
+1️⃣ #Run VirSorter2 (first pass)
 ./start.sh run_virsorter <data_path> <output_path>
 
 
@@ -47,7 +47,7 @@ Example:
 
 ./start.sh run_virsorter data/ results/
 
-2️⃣ Quality control with CheckV
+2️⃣ #Quality control with CheckV
 ./start.sh run_check <data_path> <output_path>
 
 
