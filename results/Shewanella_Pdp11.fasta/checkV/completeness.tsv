@@ -1,2 +1,0 @@
-contig_id	contig_length	viral_length	aai_expected_length	aai_completeness	aai_confidence	aai_error	aai_num_hits	aai_top_hit	aai_id	aai_af	hmm_completeness_lower	hmm_completeness_upper	hmm_num_hits	kmer_freq
-Q_Shewanella_Pdp11||0_partial	105318	29937	41912.847732200964	71.42678586594793	low	26.5187364960698	19	CheckV-045510	47.81	11.07	50.73806869661483	77.61256682666934	15	1.0

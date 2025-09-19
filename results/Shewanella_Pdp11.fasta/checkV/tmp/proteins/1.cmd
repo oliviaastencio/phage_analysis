@@ -1,1 +1,0 @@
-prodigal-gv  -m -p meta -i results/Shewanella_Pdp11.fasta/checkV/tmp/proteins/1.fna -a results/Shewanella_Pdp11.fasta/checkV/tmp/proteins/1.faa 1> /dev/null 2> results/Shewanella_Pdp11.fasta/checkV/tmp/proteins/1.log

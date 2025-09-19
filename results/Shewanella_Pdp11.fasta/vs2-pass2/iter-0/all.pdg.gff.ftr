@@ -1,2 +1,0 @@
-seqname	contig_size	gene_size	gene_overlap_perc	density	strand_switch_perc	atg_perc	gtg_perc	ttg_perc	gc_mean	gc_sd	rbs_DoubleA	rbs_DoubleT	rbs_NoA	rbs_None	rbs_OnlyA	rbs_OnlyT	rbs_Other	rbs_Other_GA	rbs_SD_Bacteroidetes	rbs_SD_Canonical	rbs_TATATA_3-6
-Q_Shewanella_Pdp11||0_partial_1||rbs:common	29936	810.3548387096774	29.032258064516128	1.0689470871191875	19.35483870967742	93.54838709677419	6.451612903225806	0.0	47.440625	5.832284038811467	0.0	0.0	0.0	3.225806451612903	0.0	0.0	61.29032258064516	0.0	0.0	35.483870967741936	0.0
