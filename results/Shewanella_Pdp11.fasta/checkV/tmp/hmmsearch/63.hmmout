@@ -1,0 +1,14 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Q_Shewanella_Pdp11||0_partial_32 -          VOG17746             -            0.00063   12.3   0.1    0.0011   11.5   0.1   1.3   1   0   0   1   1   1   1 # 27430 # 29937 # 1 # ID=1_32;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.469
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/63.hmm
+# Target file:     results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/63.hmmout --noali -E 10 --cpu 0 /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/63.hmm results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa 
+# Current dir:     /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis
+# Date:            Tue Sep 16 16:50:40 2025
+# [ok]

@@ -1,0 +1,1 @@
+hmmsearch --noali -o /dev/null -E 10 --tblout results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/4.hmmout --cpu 0 /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/4.hmm results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa 2> results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/4.hmmout.log 

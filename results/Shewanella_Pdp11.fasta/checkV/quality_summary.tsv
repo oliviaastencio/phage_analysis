@@ -1,0 +1,2 @@
+contig_id	contig_length	provirus	proviral_length	gene_count	viral_genes	host_genes	checkv_quality	miuvig_quality	completeness	completeness_method	contamination	kmer_freq	warnings
+Q_Shewanella_Pdp11||0_partial	105318	Yes	29937	95	15	48	Medium-quality	Genome-fragment	50.74	HMM-based (lower-bound)	71.57	1.0	

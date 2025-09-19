@@ -1,0 +1,15 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name             accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------   -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Q_Shewanella_Pdp11||0_partial_18 -          YP_002790769@NC_012530 -            3.2e-15   48.1   0.1   7.6e-14   43.5   0.0   2.0   2   0   0   2   2   2   2 # 12480 # 14477 # 1 # ID=1_18;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.506
+Q_Shewanella_Pdp11||0_partial_30 -          YP_003347390@NC_013644 -            2.8e-22   70.6  28.0   2.8e-22   70.6  28.0   4.5   2   2   2   4   4   4   1 # 22727 # 27013 # 1 # ID=1_30;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.460
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/70.hmm
+# Target file:     results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/70.hmmout --noali -E 10 --cpu 0 /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/70.hmm results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa 
+# Current dir:     /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis
+# Date:            Tue Sep 16 16:50:40 2025
+# [ok]

@@ -1,0 +1,16 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Q_Shewanella_Pdp11||0_partial_53 -          FAM000358            -              1e-24   79.5   0.0   1.7e-24   78.8   0.0   1.2   1   0   0   1   1   1   1 # 46886 # 49162 # 1 # ID=1_53;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.490
+Q_Shewanella_Pdp11||0_partial_58 -          FAM000555            -              0.043    6.7  14.1     0.045    6.7   0.6   4.0   3   1   1   4   4   4   0 # 53272 # 54903 # -1 # ID=1_58;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.436
+Q_Shewanella_Pdp11||0_partial_49 -          FAM001519            -            8.9e-06   17.8   2.1   0.00081   11.3   0.4   2.4   3   0   0   3   3   3   2 # 42284 # 43123 # 1 # ID=1_49;partial=00;start_type=GTG;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.475
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/76.hmm
+# Target file:     results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/76.hmmout --noali -E 10 --cpu 0 /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/76.hmm results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa 
+# Current dir:     /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis
+# Date:            Tue Sep 16 16:50:41 2025
+# [ok]

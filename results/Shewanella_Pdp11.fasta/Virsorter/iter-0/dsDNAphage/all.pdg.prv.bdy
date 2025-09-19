@@ -1,0 +1,2 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt
+Q_Shewanella_Pdp11||rbs:common	1239	1333	1442763	1548080	0.900	0.907	1239	1333	1442763	1548080	0.900	1.000	1	1	4219	3	4973695	0.220	0.0	40.2	0.0	29.0	13.1	17.8	5

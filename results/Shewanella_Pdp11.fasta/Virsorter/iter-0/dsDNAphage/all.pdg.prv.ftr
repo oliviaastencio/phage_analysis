@@ -1,0 +1,2 @@
+seqname	trim_orf_index_start	trim_orf_index_end	gene_size	gene_overlap_perc	density	strand_switch_perc	atg_perc	gtg_perc	ttg_perc	gc_mean	gc_sd	rbs_DoubleA	rbs_DoubleT	rbs_NoA	rbs_None	rbs_OnlyA	rbs_OnlyT	rbs_Other	rbs_Other_GA	rbs_SD_Bacteroidetes	rbs_SD_Canonical	rbs_TATATA_3-6	arc	bac	euk	vir	mix	unaligned	hallmark
+Q_Shewanella_Pdp11||rbs:common	1239	1333	922.811	12.766	0.902	28.723	91.579	7.368	1.053	46.942	4.274	0.000	0.000	0.000	11.579	0.000	0.000	63.158	0.000	0.000	25.263	0.000	0.000	38.947	0.000	28.421	12.632	20.000	5.000

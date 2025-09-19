@@ -1,0 +1,9 @@
+2025-09-19 21:56:00,681 - The log file is created at results/Shewanella_Pdp11.fasta/dramv-annotate/dramv-distill/distill.log
+2025-09-19 21:56:00,724 - Retrieved database locations and descriptions
+2025-09-19 21:56:00,728 - Note: the fallowing id fields were not in the annotations file and are not being used: ['kegg_genes_id', 'kegg_id', 'camper_id', 'fegenie_id', 'sulfur_id', 'methyl_id'], but these are ['ko_id', 'kegg_hit', 'peptidase_family', 'cazy_best_hit', 'pfam_hits']
+2025-09-19 21:56:00,728 - Determined potential amgs
+2025-09-19 21:56:00,735 - Calculated viral genome statistics
+2025-09-19 21:56:00,767 - No distillate information found for 0 genes.
+2025-09-19 21:56:00,771 - Generated AMG summary
+2025-09-19 21:56:00,850 - Generated product heatmap
+2025-09-19 21:56:00,851 - Completed distillation

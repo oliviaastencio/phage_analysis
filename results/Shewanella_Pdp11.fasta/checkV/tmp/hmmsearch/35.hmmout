@@ -1,0 +1,23 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Q_Shewanella_Pdp11||0_partial_45 -          K16079               -              0.011    7.8   6.2     0.023    6.8   6.2   1.6   1   1   0   1   1   1   0 # 38843 # 39580 # 1 # ID=1_45;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.440
+Q_Shewanella_Pdp11||0_partial_57 -          K16182               -            1.5e-05   16.8   0.0   2.3e-05   16.3   0.0   1.3   1   0   0   1   1   1   1 # 52376 # 53185 # 1 # ID=1_57;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.463
+Q_Shewanella_Pdp11||0_partial_72 -          K16215               -            7.5e-05   14.3   0.0   0.00012   13.6   0.0   1.2   1   0   0   1   1   1   1 # 71275 # 72318 # -1 # ID=1_72;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.498
+Q_Shewanella_Pdp11||0_partial_72 -          K16868               -            3.3e-05   16.0   0.0   4.6e-05   15.5   0.0   1.2   1   0   0   1   1   1   1 # 71275 # 72318 # -1 # ID=1_72;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.498
+Q_Shewanella_Pdp11||0_partial_85 -          K17062               -            1.4e-14   46.4   0.0   1.9e-14   45.9   0.0   1.1   1   0   0   1   1   1   1 # 93218 # 94666 # 1 # ID=1_85;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.441
+Q_Shewanella_Pdp11||0_partial_72 -          K17462               -            4.6e-05   15.8   0.0   7.3e-05   15.1   0.0   1.3   1   0   0   1   1   1   1 # 71275 # 72318 # -1 # ID=1_72;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.498
+Q_Shewanella_Pdp11||0_partial_47 -          K17816               -            8.6e-06   18.0   0.0   1.5e-05   17.2   0.0   1.3   1   0   0   1   1   1   1 # 41219 # 41821 # 1 # ID=1_47;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.454
+Q_Shewanella_Pdp11||0_partial_39 -          K17828               -            4.7e-10   31.2   0.0   1.1e-09   30.0   0.0   1.5   2   0   0   2   2   2   1 # 34618 # 35637 # 1 # ID=1_39;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.483
+Q_Shewanella_Pdp11||0_partial_79 -          K17836               -            2.2e-06   19.4   0.1   0.00074   11.1   0.1   2.0   2   0   0   2   2   2   2 # 79044 # 79916 # 1 # ID=1_79;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.468
+Q_Shewanella_Pdp11||0_partial_79 -          K17838               -            1.1e-96  316.1   3.1   1.2e-96  316.0   3.1   1.0   1   0   0   1   1   1   1 # 79044 # 79916 # 1 # ID=1_79;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.468
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/35.hmm
+# Target file:     results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/35.hmmout --noali -E 10 --cpu 0 /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/35.hmm results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa 
+# Current dir:     /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis
+# Date:            Tue Sep 16 16:50:41 2025
+# [ok]

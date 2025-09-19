@@ -1,0 +1,30 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Q_Shewanella_Pdp11||0_partial_67 -          AAA_16               PF13191.6    3.2e-09   30.0   0.0   7.4e-09   28.8   0.0   1.5   1   0   0   1   1   1   1 # 63493 # 65526 # 1 # ID=1_67;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.513
+Q_Shewanella_Pdp11||0_partial_1  -          AAA_21               PF13304.6    6.6e-19   61.4  12.8   1.4e-17   57.0  12.8   2.2   1   1   0   1   1   1   1 # 1 # 1485 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.304
+Q_Shewanella_Pdp11||0_partial_67 -          AAA_21               PF13304.6    8.9e-08   24.8   2.1   0.00017   14.1   0.2   2.2   1   1   0   2   2   2   2 # 63493 # 65526 # 1 # ID=1_67;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.513
+Q_Shewanella_Pdp11||0_partial_62 -          AAA_21               PF13304.6    3.7e-05   16.2   2.5    0.0076    8.6   0.1   2.2   1   1   1   2   2   2   2 # 58179 # 59264 # -1 # ID=1_62;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.490
+Q_Shewanella_Pdp11||0_partial_67 -          AAA_22               PF13401.6    0.00021   14.2   0.5    0.0013   11.7   0.5   2.2   1   1   0   1   1   1   1 # 63493 # 65526 # 1 # ID=1_67;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.513
+Q_Shewanella_Pdp11||0_partial_62 -          AAA_22               PF13401.6    0.00084   12.3   1.0     0.002   11.1   0.3   1.9   2   0   0   2   2   2   1 # 58179 # 59264 # -1 # ID=1_62;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.490
+Q_Shewanella_Pdp11||0_partial_67 -          AAA_23               PF13476.6    0.00013   15.1   0.1   0.00056   13.0   0.0   1.9   2   0   0   2   2   2   1 # 63493 # 65526 # 1 # ID=1_67;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.513
+Q_Shewanella_Pdp11||0_partial_62 -          AAA_23               PF13476.6    0.00027   14.1   0.0   0.00046   13.3   0.0   1.3   1   0   0   1   1   1   1 # 58179 # 59264 # -1 # ID=1_62;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.490
+Q_Shewanella_Pdp11||0_partial_1  -          AAA_23               PF13476.6      0.041    7.0  12.1      0.38    3.8  12.1   2.6   1   1   0   1   1   1   0 # 1 # 1485 # 1 # ID=1_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;genetic_code=11;gc_cont=0.304
+Q_Shewanella_Pdp11||0_partial_66 -          AAA_26               PF13500.6    0.00013   14.4   1.7   0.00029   13.3   1.6   1.6   1   1   0   1   1   1   1 # 62258 # 63490 # 1 # ID=1_66;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;genetic_code=11;gc_cont=0.498
+Q_Shewanella_Pdp11||0_partial_67 -          AAA_29               PF13555.6    2.7e-06   19.7   0.1   6.8e-06   18.4   0.1   1.7   1   0   0   1   1   1   1 # 63493 # 65526 # 1 # ID=1_67;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.513
+Q_Shewanella_Pdp11||0_partial_62 -          AAA_29               PF13555.6     0.0004   12.8   0.1   0.00075   11.9   0.1   1.4   1   0   0   1   1   1   1 # 58179 # 59264 # -1 # ID=1_62;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.490
+Q_Shewanella_Pdp11||0_partial_50 -          Abhydrolase_1        PF00561.20     3e-05   16.3   0.1   3.9e-05   16.0   0.1   1.4   1   1   0   1   1   1   1 # 43150 # 43725 # 1 # ID=1_50;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.462
+Q_Shewanella_Pdp11||0_partial_50 -          Abhydrolase_6        PF12697.7    1.8e-06   21.3   0.1   0.00013   15.2   0.0   2.0   1   1   1   2   2   2   2 # 43150 # 43725 # 1 # ID=1_50;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.462
+Q_Shewanella_Pdp11||0_partial_73 -          Alk_phosphatase      PF00245.20  8.1e-100  327.2   1.5   1.6e-99  326.2   1.5   1.5   1   1   0   1   1   1   1 # 72489 # 73808 # -1 # ID=1_73;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.490
+Q_Shewanella_Pdp11||0_partial_74 -          ATPgrasp_ST          PF14397.6    0.00033   12.6   0.0     0.011    7.5   0.0   2.2   2   0   0   2   2   2   2 # 73883 # 74836 # -1 # ID=1_74;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.503
+Q_Shewanella_Pdp11||0_partial_74 -          ATPgrasp_YheCD       PF14398.6    1.4e-08   26.8   0.0   2.2e-08   26.2   0.0   1.2   1   0   0   1   1   1   1 # 73883 # 74836 # -1 # ID=1_74;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.503
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/1.hmm
+# Target file:     results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/1.hmmout --noali -E 10 --cpu 0 /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/1.hmm results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa 
+# Current dir:     /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis
+# Date:            Tue Sep 16 16:50:41 2025
+# [ok]

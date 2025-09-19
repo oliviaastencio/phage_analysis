@@ -1,0 +1,20 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Q_Shewanella_Pdp11||0_partial_64 -          K23163               -            2.5e-08   25.8   3.2     2e-05   16.2   0.5   2.1   2   0   0   2   2   2   2 # 60012 # 60803 # -1 # ID=1_64;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.477
+Q_Shewanella_Pdp11||0_partial_47 -          K23258               -            0.00015   13.2   0.1   0.00021   12.8   0.1   1.1   1   0   0   1   1   1   1 # 41219 # 41821 # 1 # ID=1_47;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.454
+Q_Shewanella_Pdp11||0_partial_47 -          VOG00053             -            3.9e-07   22.0   0.0   4.1e-07   21.9   0.0   1.1   1   0   0   1   1   1   1 # 41219 # 41821 # 1 # ID=1_47;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.454
+Q_Shewanella_Pdp11||0_partial_67 -          VOG00072             -            3.8e-05   15.4   0.1   6.5e-05   14.7   0.1   1.3   1   0   0   1   1   1   1 # 63493 # 65526 # 1 # ID=1_67;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.513
+Q_Shewanella_Pdp11||0_partial_72 -          VOG00157             -            0.00012   12.8   0.0   0.00016   12.4   0.0   1.1   1   0   0   1   1   1   1 # 71275 # 72318 # -1 # ID=1_72;partial=00;start_type=GTG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;genetic_code=11;gc_cont=0.498
+Q_Shewanella_Pdp11||0_partial_29 -          VOG00184             -            3.7e-13   42.2   0.0   3.9e-13   42.1   0.0   1.1   1   0   0   1   1   1   1 # 21658 # 22242 # -1 # ID=1_29;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.463
+Q_Shewanella_Pdp11||0_partial_4 -          VOG00234             -            3.3e-11   36.4   0.0   3.4e-11   36.3   0.0   1.0   1   0   0   1   1   1   1 # 3876 # 4079 # 1 # ID=1_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;genetic_code=11;gc_cont=0.466
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/39.hmm
+# Target file:     results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa
+# Option settings: hmmsearch -o /dev/null --tblout results/Shewanella_Pdp11.fasta/checkV/tmp/hmmsearch/39.hmmout --noali -E 10 --cpu 0 /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis/checkv-db-v1.5/hmm_db/checkv_hmms/39.hmm results/Shewanella_Pdp11.fasta/checkV/tmp/proteins.faa 
+# Current dir:     /mnt/home/users/pab_001_uma/oliastencio/micro_lab3/prophage/phage_analysis
+# Date:            Tue Sep 16 16:50:41 2025
+# [ok]
