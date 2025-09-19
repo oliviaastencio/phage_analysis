@@ -35,45 +35,41 @@ This repository provides **bash scripts** for prophage identification in bacteri
 
 ## ⚡ Usage
 
-#1️⃣ Run VirSorter2 (first pass)
+# 1️⃣ Run VirSorter2 (first pass)
+
 ./start.sh run_virsorter <data_path> <output_path>
 
-
-Detects prophages in bacterial genomes.
-
-Creates a separate folder for each genome: output/<genome>/Virsorter. Minimum contig length: 1500 bp. Parallelized with -j 4.
+Detects prophages in bacterial genomes. Creates a separate folder for each genome: output/<genome>/Virsorter. Minimum contig length: 1500 bp. Parallelized with -j 4.
 
 Example:
-
 ./start.sh run_virsorter data/ results/
 
-#2️⃣ Quality control with CheckV
-./start.sh run_check <data_path> <output_path>
+# 2️⃣ Quality control with CheckV
 
+./start.sh run_check <data_path> <output_path>
 
 Uses CheckV to evaluate the quality of identified viral sequences. Merges proviruses.fna and viruses.fna into combined.fna. Requires modules: Prodigal, Diamond, HMMER, CheckM.
 
 Example:
-
 ./start.sh run_check data/ results/
 
-3️⃣ Run VirSorter2 (second pass, prep for DRAM-v)
-./start.sh run_virsorter_2 <data_path> <output_path>
+# 3️⃣ Run VirSorter2 (second pass, prep for DRAM-v)
 
+./start.sh run_virsorter_2 <data_path> <output_path>
 
 Uses combined.fna from CheckV as input. Options: disables seqname-suffix, viral-gene-enrich, and provirus. Prepares sequences for DRAM-v annotation. Includes groups: dsDNAphage, ssDNA.
 
 Minimum contig length: 5000 bp; minimum score: 0.5.
 
-4️⃣ Annotate with DRAM-v
-./start.sh run_dram <data_path> <output_path>
+# 4️⃣ Annotate with DRAM-v
 
+./start.sh run_dram <data_path> <output_path>
 
 Step 1: Annotate sequences with DRAM-v.py annotate.Step 2: Summarize annotations with DRAM-v.py distill. Minimum contig size: 1000 bp. Threads: 28.
 
-5️⃣ Syntenic block analysis with Sibelia & Circos
-./start.sh syntenic <data_path> <output_path>
+# 5️⃣ Syntenic block analysis with Sibelia & Circos
 
+./start.sh syntenic <data_path> <output_path>
 
 Generates syntenic blocks among viral sequences.Visualizes results with Circos. Requires Sibelia in PATH and Circos module loaded.
 
